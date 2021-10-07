@@ -1,0 +1,13 @@
+baa abcd abca cab cad 
+b a
+d a
+a c
+b d
+a --> c 
+b --> d a 
+d --> a 
+d  1
+c  1
+b  0
+a  2
+bdac
